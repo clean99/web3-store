@@ -1,1 +1,1 @@
-export const smartChainWallet = "0x752e3cb34D06d3671E24DDCcEB9d44B39eADEb0D";
+export const smartChainWallet = "0x825Fd4B64BAD80e7AA02D9CC9EA3B33378860825";
